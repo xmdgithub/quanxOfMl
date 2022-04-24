@@ -105,13 +105,13 @@ https://zhuan.mlsao.xyz/
 
 将chinamax那个 
 
-<img src="radme.assets/image-20220424175603899.png" alt="image-20220424175603899" style="zoom:67%;" />
+<img src="https://raw.githubusercontent.com/xmdgithub/quanxOfMl/main/%E5%9C%88x%E5%85%8D%E6%B5%81%E8%AE%BE%E7%BD%AE/radme.assets/image-20220424175603899.png" alt="image-20220424175603899" style="zoom:67%;" />
 
 改写为国内，并且打开配置文件设置跳转到filter_local
 
 将变形改为国内
 
-<img src="radme.assets/image-20220424175725998.png" alt="image-20220424175725998" style="zoom:67%;" />
+<img src="https://raw.githubusercontent.com/xmdgithub/quanxOfMl/main/%E5%9C%88x%E5%85%8D%E6%B5%81%E8%AE%BE%E7%BD%AE/radme.assets/image-20220424175725998.png" alt="image-20220424175725998" style="zoom:67%;" />
 
 
 
@@ -161,7 +161,7 @@ https://zhuan.mlsao.xyz/
 
 如果你需要使用到这些策略的话你可以到配置文件中进行去掉这个注释然后进行修改
 
-<img src="radme.assets/image-20220424181336354.png" alt="image-20220424181336354" style="zoom:67%;" />
+<img src="https://raw.githubusercontent.com/xmdgithub/quanxOfMl/main/%E5%9C%88x%E5%85%8D%E6%B5%81%E8%AE%BE%E7%BD%AE/radme.assets/image-20220424181336354.png" alt="image-20220424181336354" style="zoom:67%;" />
 
 #### 重写
 
@@ -169,7 +169,7 @@ https://zhuan.mlsao.xyz/
 
 一般会影响免流的就只是策略以及分流(本地分流，远程分流)，以及把设置mpm关闭(不知道是不是玄学问题，在我个人看来这个开关会导致跳点)
 
-<img src="radme.assets/image-20220424181714305.png" alt="image-20220424181714305" style="zoom:67%;" />
+<img src="https://raw.githubusercontent.com/xmdgithub/quanxOfMl/main/%E5%9C%88x%E5%85%8D%E6%B5%81%E8%AE%BE%E7%BD%AE/radme.assets/image-20220424181714305.png" alt="image-20220424181714305" style="zoom:67%;" />
 
 #### 筛选
 
@@ -196,13 +196,13 @@ https://github.com/cdoco/common-regex
 
 在策略组中筛选你可以长按策略然后点编辑
 
-<img src="radme.assets/image-20220424165416503.png" alt="image-20220424165416503" style="zoom: 67%;" />
+<img src="https://raw.githubusercontent.com/xmdgithub/quanxOfMl/main/%E5%9C%88x%E5%85%8D%E6%B5%81%E8%AE%BE%E7%BD%AE/radme.assets/image-20220424165416503.png" alt="image-20220424165416503" style="zoom: 67%;" />
 
-<img src="radme.assets/image-20220424165458453.png" alt="image-20220424165458453" style="zoom:67%;" />
+<img src="https://raw.githubusercontent.com/xmdgithub/quanxOfMl/main/%E5%9C%88x%E5%85%8D%E6%B5%81%E8%AE%BE%E7%BD%AE/radme.assets/image-20220424165458453.png" alt="image-20220424165458453" style="zoom:67%;" />
 
 这个里面有上面匹配资源标签是匹配你的机场订阅的名字的例如下图这两个订阅组
 
-<img src="radme.assets/image-20220424165843986.png" alt="image-20220424165843986" style="zoom:67%;" />
+<img src="https://raw.githubusercontent.com/xmdgithub/quanxOfMl/main/%E5%9C%88x%E5%85%8D%E6%B5%81%E8%AE%BE%E7%BD%AE/radme.assets/image-20220424165843986.png" alt="image-20220424165843986" style="zoom:67%;" />
 
 
 
@@ -210,7 +210,7 @@ https://github.com/cdoco/common-regex
 
 如果你仅仅是想匹配到hihi 订阅组内的节点
 
-那么你就要在![image-20220424165949936](radme.assets/image-20220424165949936.png)这个里面填写 hihi
+那么你就要在![image-20220424165949936](https://raw.githubusercontent.com/xmdgithub/quanxOfMl/main/%E5%9C%88x%E5%85%8D%E6%B5%81%E8%AE%BE%E7%BD%AE/radme.assets/image-20220424165949936.png)这个里面填写 hihi
 
 如果想同时匹配到 已保存和hihi 内的节点的话就需要填写  已保存||hihi
 
@@ -218,7 +218,7 @@ https://github.com/cdoco/common-regex
 
 ###### 然后第二步筛选
 
-![image-20220424170245946](radme.assets/image-20220424170245946.png)
+![image-20220424170245946](https://raw.githubusercontent.com/xmdgithub/quanxOfMl/main/%E5%9C%88x%E5%85%8D%E6%B5%81%E8%AE%BE%E7%BD%AE/radme.assets/image-20220424170245946.png)
 
 ```
 (?=.*(🇻🇳|台|TW|(?i)Taiwan))^((?!(龙台|★★★|✰✰✰|故障|清理)).)*$
