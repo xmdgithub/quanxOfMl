@@ -28,12 +28,12 @@ https://sub.store/download/hhh#regex=(?=.*(\:80|\:443))^((?!(trojan=|shadowsocks
 
 你有两种方法去解决这个问题
 
-1，想你的机场组提出建议，添加host；或者是你自己的节点可以在windows的v2rayn 软件下添加![image-20220424180850645](radme.assets/image-20220424180850645.png)
+1，想你的机场组提出建议，添加host；或者是你自己的节点可以在windows的v2rayn 软件下添加![image-20220424180850645](https://raw.githubusercontent.com/xmdgithub/quanxOfMl/main/%E5%9C%88x%E5%85%8D%E6%B5%81%E8%AE%BE%E7%BD%AE/radme.assets/image-20220424180850645.png)
 
 2，你可以去网站上转换下然后再添加
 https://zhuan.mlsao.xyz/
 
-![image-20220424180946596](radme.assets/image-20220424180946596.png)
+![image-20220424180946596](https://raw.githubusercontent.com/xmdgithub/quanxOfMl/main/%E5%9C%88x%E5%85%8D%E6%B5%81%E8%AE%BE%E7%BD%AE/radme.assets/image-20220424180946596.png)
 
 随意选择一个混淆就可以
 
@@ -99,7 +99,7 @@ https://zhuan.mlsao.xyz/
 
 将所有与国内相关的设置为国内
 
-<img src="radme.assets/image-20220424175445032.png" alt="image-20220424175445032" style="zoom:67%;" />
+<img src="https://raw.githubusercontent.com/xmdgithub/quanxOfMl/main/%E5%9C%88x%E5%85%8D%E6%B5%81%E8%AE%BE%E7%BD%AE/radme.assets/image-20220424175445032.png" alt="image-20220424175445032" style="zoom:67%;" />
 
 
 
